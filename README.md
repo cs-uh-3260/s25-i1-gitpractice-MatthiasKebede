@@ -2,4 +2,8 @@
 # Git Practice
 A simple project to practice a few git/github workflows.  Update this file as instructed in [instructions](./instructions.md).
 
+## Name
 Matthias Kebede
+
+## Contribution
+Pull request on Sashank's [repo](https://github.com/cs-uh-3260/s25-i1-gitpractice-sashankneupane/pull/3)
