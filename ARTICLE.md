@@ -10,3 +10,7 @@ https://danielfoo.medium.com/design-your-software-for-portability-00abcfbf5970
 
 ## Proof Reading
 Article checked for typos
+
+## Comments
+* By Absera Yihunie (@absera)
+> This is a great article. I think portability is one of the most important considerations we should keep in mind as software designers. thanks for sharing.
